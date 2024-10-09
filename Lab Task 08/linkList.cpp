@@ -104,10 +104,9 @@ void LinkedList::deleteNode(int key) {
 }
 
 int main() {
-    // Create a linked list
+    
     LinkedList list;
 
-    // Insert nodes into the list
     list.insertNode(10);
     list.insertNode(20);
     list.insertNode(30);

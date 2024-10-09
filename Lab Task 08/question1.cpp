@@ -64,9 +64,9 @@ public:
             return;
         }
 
-        Node* next = temp->next->next;  // Store pointer to the next of the node to be deleted
-        delete temp->next;                      // Free memory
-        temp->next = next;                      // Unlink the deleted node from the list
+        Node* next = temp->next->next;          
+        delete temp->next;                      
+        temp->next = next;                      
     }
 
     void printList() {
