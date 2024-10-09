@@ -1,2 +1,2 @@
 # DSA-Lab
-This is 3rd sem
+Data Structures and Algorithm(3rd semester)
