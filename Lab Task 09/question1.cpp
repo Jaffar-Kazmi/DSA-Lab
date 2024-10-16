@@ -58,7 +58,7 @@ class Queue{
 
     void display(){
         if (front == NULL) {
-            cout << "The Queue is empty\n";
+            cout << "Queue is empty\n";
             return;
         }
 

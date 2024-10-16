@@ -36,7 +36,7 @@ class Queue{
 
         Node *temp;
         if(front == NULL)
-        cout << "Queue is empty";
+        cout << "The Queue is empty";
         else{
             temp = front;
             front = front->next;
