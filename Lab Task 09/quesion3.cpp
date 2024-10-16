@@ -40,7 +40,7 @@ class Queue{
         front = front->next;
         delete temp;
     
-        if (front == NULL)  // If the queue is empty after dequeue
+        if (front == NULL)  
             rear = NULL;
     }
 

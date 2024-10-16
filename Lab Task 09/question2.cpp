@@ -81,6 +81,6 @@ int main(){
     Q1.dequeue();
     cout << "After Dequeue\n";
     Q1.display();
-    cout << "Current count: " << Q1.getCount() << endl;
+    cout << "Count after Dequeue: " << Q1.getCount() << endl;
 
 }
