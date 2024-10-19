@@ -74,7 +74,7 @@ int main(){
     Q1.enqueue(20);
     Q1.enqueue(30);
     
-    cout << "After Enqueue:\n";
+    cout << "After Enqueue\n";
     Q1.display();
     cout << "Current count: " << Q1.getCount() << endl;
     

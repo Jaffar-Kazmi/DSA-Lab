@@ -36,7 +36,7 @@ class Queue{
 
         Node *temp;
         if(front == NULL)
-        cout << "The Queue is empty";
+        cout << "Queue is empty";
         else{
             temp = front;
             front = front->next;
@@ -66,4 +66,5 @@ int main(){
     Q1.dequeue();
     cout << "After Dequeue:\n";
     Q1.display();
+    
 }
