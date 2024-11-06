@@ -1,3 +1,7 @@
+/*Write down a program in C++ that take an input data from user in three different arrays
+and then add the arrays and store them in another array. (Through Dynamic array
+concept)*/
+
 #include <iostream>
 using namespace std;
 int main()

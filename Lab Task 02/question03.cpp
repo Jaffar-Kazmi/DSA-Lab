@@ -1,3 +1,6 @@
+/*Write a program for linear search using the concept of dynamic array (Note: Program
+should handle the situation if item is not in the list)*/
+
 #include <iostream>
 using namespace std;
 int main()

@@ -1,3 +1,6 @@
+/*Write down a program in C++ that take an age of 10 students as an input from user and
+display the largest age of the student from an array.*/
+
 #include <iostream>
 using namespace std;
 int main()
