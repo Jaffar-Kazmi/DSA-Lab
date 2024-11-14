@@ -1,3 +1,15 @@
+/*Take a single string as input. Using this input string, you have to create multiple queues in
+which each queue will comprise of separate word appeared in input string. At the end, you
+will again concatenate all queues to a single queue and return it to user.
+Example:
+String = “Data Structure and Algorithms”
+Q1 = D → a → t → a
+Q2 = S → t → r → u → c → t → u → r→e
+Q3 = a → n → d
+Q4 = A → l → g → o
+At the end concatenate all queues.
+Q1→Q2→Q3→Q4*/
+
 #include <iostream>
 #include <string>
 using namespace std;

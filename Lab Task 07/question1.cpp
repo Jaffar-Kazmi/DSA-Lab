@@ -1,3 +1,7 @@
+/*Given a sorted array of n integers and a target value, find the index of the target value in the
+array. Show the all active items [divided half] at every stage. Handle the situation when the target
+value is not found*/
+
 #include<iostream>
 using namespace std;
 

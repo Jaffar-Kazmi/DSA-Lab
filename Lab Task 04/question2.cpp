@@ -1,3 +1,5 @@
+/*Write a program in C++ to reverse a string (Data Structures) using stack.*/
+
 #include <iostream>
 #include <string>
 #define MAX 1000

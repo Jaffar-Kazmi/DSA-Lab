@@ -1,3 +1,31 @@
+/*Implement Following Operations
+1)
+Stack (int ignored = 0)
+Requirements: None
+Results: Constructor. Creates an empty stack.
+2)
+~Stack ()
+Requirements: None
+Results: Destructor. Deallocates (frees) the memory used to store a stack.
+3)
+void push (const DataItem)
+Requirements: None
+Results: Push the element at top of the stack.
+4)
+Void pop ()
+Requirements: Stack is not empty Results: Returns the
+element from the top of the stack.
+5)
+element Peek ()
+return element at the top of stack
+6)
+void clear ()
+Requirements: None
+Results: Removes all the elements from a stack.
+7)
+Bool isEmpty ()
+Requirements: None
+Results: Returns true if a stack is empty. Otherwise, returns false.*/
 
 #include <iostream>
 using namespace std;

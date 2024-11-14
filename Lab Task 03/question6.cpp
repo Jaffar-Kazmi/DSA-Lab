@@ -1,3 +1,6 @@
+/*Write a program that dynamically allocates an array of integers. Read the values from user
+and calculate the sum of odd integers*/
+
 #include <iostream>
 using namespace std;
 int main()

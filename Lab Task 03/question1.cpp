@@ -1,4 +1,5 @@
-// Question # 01
+/*Write a program in C++ that take integer type 2D array from user, calculate sum multiplication
+and average of all numbers.*/
 
 #include <iostream>
 using namespace std;

@@ -1,3 +1,6 @@
+/*Write a program that lets the user to enter the 10 values into the array. The program should
+then display the largest and the smallest values stored in the array.*/
+
 #include <iostream>
 using namespace std;
 int main()

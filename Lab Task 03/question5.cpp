@@ -1,3 +1,12 @@
+/*Write a program that creates a two dimensional array initialized with test data.
+Perform the following operations on the array data.
+Get total: get total of all the elements in the array.
+Get Average: calculate the average of all the values in the array.
+Get row total: calculate the total of all the values in the specified row.
+Get column total: calculate the total of all the values in the specified column.
+Get Highest in row: find the highest value in the specified row.
+Get Highest in Column: find the highest value in the specified column*/
+
 #include <iostream>
 using namespace std;
 const int ROWS = 3;

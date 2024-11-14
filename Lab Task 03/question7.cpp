@@ -1,3 +1,6 @@
+/*Define a pointer variable. Assign the address of variable to a pointer variable and access the
+value of address variable in the pointer variable.*/
+
 #include <iostream>
 using namespace std;
 int main()

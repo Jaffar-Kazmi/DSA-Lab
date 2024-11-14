@@ -1,3 +1,13 @@
+/*Write a program for a calculator using functions.
+Your program must have the following functions:
+a. Menu () telling the user to select from the options
+b. Addition (int a, int b) adding two numbers
+c. Subtraction (int a, int b)
+d. Division (int a, int b)
+e. Multiplication (int a, int b)
+f. Pow (int number, int pow)
+In the main function you will only call the menu () function*/
+
 #include <iostream>
 #include <cmath>
 using namespace std;

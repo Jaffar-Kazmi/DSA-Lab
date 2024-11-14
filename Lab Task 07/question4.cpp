@@ -1,3 +1,6 @@
+/*Given a sorted array of n integers and a target value, find the number of occurrences of the target
+value in the array.*/
+
 #include <iostream>
 using namespace std;
 

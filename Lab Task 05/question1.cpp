@@ -1,4 +1,16 @@
-// Q.1
+/*Implement Class Queue, its data members, and operation listed below.
+ Queue ()
+A non-parameterized constructor that creates an empty queue. Where should the front
+and rear of an empty queue point to?
+ enqueue ()
+Inserts the element at the rear of queue.
+ dequeue ()
+Removes the element from the front of queue.
+ isEmpty ()
+Returns True if queue is empty else returns False.
+ display ()
+Display all the elements of Queue*/
+
 #include <iostream>
 using namespace std;
 class Queue

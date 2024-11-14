@@ -1,3 +1,7 @@
+/*Write a program that lets the user to enter the total rainfall for each of 12 months into an array
+of doubles. The program should calculate and display the total rainfall for the year, the average
+monthly rainfall and the month with the highest and lowest rainfall.*/
+
 #include <iostream>
 using namespace std;
 int main()
